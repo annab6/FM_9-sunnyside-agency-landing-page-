@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-ucY70UqO5)
-- Live Site URL: [Add live site URL here](https://annab6.github.io/FM_9-sunnyside-agency-landing-page-/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-ucY70UqO5)
+- Live Site URL: [Live site](https://annab6.github.io/FM_9-sunnyside-agency-landing-page-/)
 
 ## My process
 
