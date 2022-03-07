@@ -243,7 +243,6 @@ article #btn-yellow{
 }
 .underliner-yellow{
     background-color:var(--clr-yellow);
-    opacity:80%;
     height:10px;
     border-radius: 12%;
     width:106%;
@@ -252,8 +251,8 @@ article #btn-yellow{
     left:-3%;
     z-index: -1;
 }
-article #btn-yellow:hover{
-    opacity:80%;
+article #btn-yellow:hover > .underliner-yellow {
+    opacity: 70%; 
 }
 
 article #btn-red{
@@ -261,7 +260,6 @@ article #btn-red{
 }
 .underliner-red{
     background-color:var(--clr-softred);
-    opacity:80%;
     height:10px;
     border-radius: 12%;
     width:106%;
@@ -270,8 +268,8 @@ article #btn-red{
     left:-3%;
     z-index: -1;
 }
-article #btn-red:hover{
-    opacity:80%;
+article #btn-red:hover > .underliner-red {
+    opacity: 70%; 
 }
 
 article button a{
